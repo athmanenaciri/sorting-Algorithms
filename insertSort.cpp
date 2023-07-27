@@ -6,13 +6,12 @@
 /*   By: anaciri <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/26 09:36:35 by anaciri           #+#    #+#             */
-/*   Updated: 2023/07/26 11:26:07 by anaciri          ###   ########.fr       */
+/*   Updated: 2023/07/26 11:28:29 by anaciri          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 //implement the insert sort ;
 //the program takes the numbers as arguments and sort them using insert sort
-//
 #include <iostream>
 #include <vector>
 #include <cctype>
