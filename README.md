@@ -14,6 +14,7 @@ Algorithms to Implement:
     Selection Sort
     Insertion Sort [*] reademe needed
     Merge Sort [*] reademe needed
+    Forf jhonson sort [*] reademe needed
     Quick Sort
     Heap Sort
     Counting Sort
